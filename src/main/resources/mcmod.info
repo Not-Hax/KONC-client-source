@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "koncclient",
+    "name": "KONC-Client",
+    "version": "v4.0",
+    "mcversion": "1.12.2"
+  },
+  {
+    "modid": "vocoshulkerpeek2",
+    "name": "Peek Bypass for KONC-Client",
+    "version": "v4.0",
+    "mcversion": "1.12.2"
+  }
+]

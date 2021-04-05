@@ -1,0 +1,33 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "meow.konc.hack.mixin.client",
+  "refmap": "mixins.konc.refmap.json",
+  "client": [
+    "other.MixinMovementInputFromOptions",
+    "block.MixinBlockWeb",
+    "block.MixinBlockLiquid",
+    "block.MixinBlockSoulSand",
+    "other.MixinC00Handshake",
+    "entity.MixinEntity",
+    "entity.MixinEntityLlama",
+    "entity.MixinEntityPig",
+    "entity.MixinEntityPlayerSP",
+    "entity.MixinEntityRenderer",
+    "gui.MixinGuiChat",
+    "gui.MixinGuiPlayerTabOverlay",
+    "gui.MixinGuiScreen",
+    "other.MixinMinecraft",
+    "other.MixinModelBoat",
+    "other.MixinNetHandlerPlayClient",
+    "other.MixinNetworkManager",
+    "other.MixinPlayerControllerMP",
+    "render.MixinRenderLiving",
+    "render.MixinRenderPlayer",
+    "other.MixinStateImplementation",
+    "other.MixinAbstractClientPlayer",
+    "gui.MixinGuiNewChat",
+    "other.MixinLayerArmorBase",
+    "other.MixinNettyCompressionDecoder"
+  ]
+}
