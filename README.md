@@ -1,4 +1,4 @@
-# KONC---source-code
+# KONC client source code
 konc client source with auth removed
 
 
